@@ -1,0 +1,24 @@
+{
+  "name": "landing-page-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "complie:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmterim/landing-page-advanced-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmterim/landing-page-advanced-css/issues"
+  },
+  "homepage": "https://github.com/mehmterim/landing-page-advanced-css#readme",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "node-sass": "^4.10.0"
+  }
+}
